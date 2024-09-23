@@ -1,3 +1,4 @@
+import java.sql.SQLOutput;
 import java.util.Random;
 import java.util.Scanner;
 
@@ -34,7 +35,17 @@ public class Exemplos {
 
 
         }
-        System.out.println("o fatorial de" + valorRecebido+"é" + fatorial);
+        System.out.println("o fatorial de" + valorRecebido +"é" + fatorial);
+
+        //Exemplo 8
+        int contador2 = valorRecebido;
+        fatorial = valorRecebido;
+        while(contador2 > 0){
+            fatorial *= contador2;
+            contador2 --;
+
+        }
+        System.out.println("while - o fatorial de" + valorRecebido+"é" + fatorial);
 
 
 

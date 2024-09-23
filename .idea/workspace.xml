@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e108d28-f9fc-45c9-a809-ba848cfa20ee" name="Changes" comment="PRIMEIRO COMIT">
-      <change afterPath="$PROJECT_DIR$/src/CalculoAreaRetangulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CastingExplicito.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CastingImplicito.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ComparacaoNumeros.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DiferencaTiposDeDados.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercicios.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OperadoresAritmeticos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OperadoresLogicos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exemplos.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercicios.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,21 +24,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "PedroDev475"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;PedroDev475&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/PedroDev475/AulaJava1.git",
-    "accountId": "6e2fe073-5f2f-469a-bf94-a54114406805"
+    "accountId": "9f1c6a94-e874-4373-bf75-87e2b437331e"
   }
 }]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2mAt86oLM32aH1av4Gcy4cTA18R" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -55,6 +49,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Exemplos.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
